@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="./assets/profile-3d.svg" width="100%" alt="Animated 3D profile card with Darshan's GitHub profile photo"/>
+<img src="![Uploading ChatGPT Image Oct 3, 2026, 09_32_18 AM.png…]()
+"" width="100%" alt="Animated 3D profile card with Darshan's GitHub profile photo"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;AI%2FML+%7C+Computer+Vision+%7C+Full+Stack;Building+practical+real-world+software;Hackathons+%7C+Innovation+%7C+Open+Source" alt="Typing animation"/>
 
