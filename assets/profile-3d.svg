@@ -52,7 +52,7 @@
 
   <!-- GitHub avatar used as the profile photo -->
   <circle cx="450" cy="205" r="120" fill="#020617" stroke="#22d3ee" stroke-width="5"/>
-  <image href="https://github.com/damr-web.png?size=500" x="334" y="89" width="232" height="232" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
+  <image href="darshan-photo.png" x="334" y="89" width="232" height="232" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
 
   <!-- foreground glass chunks -->
   <g opacity=".9">
